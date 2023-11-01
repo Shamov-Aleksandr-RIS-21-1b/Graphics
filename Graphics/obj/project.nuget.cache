@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4pHPXwpebcVlRG8oyiSx4SeOxoBQvC5aWZ/dFJukRwQzgHSsGBJkDAUwYkuQ03h7+A2E2wcrGDVb3E63kGITQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алекс\\source\\repos\\Graphics\\Graphics\\Graphics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алекс\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\Алекс\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\Алекс\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\Алекс\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
